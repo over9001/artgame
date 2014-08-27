@@ -7,4 +7,5 @@ notes
 =====
 
 HTTP server must serve these files for chrome to enable interactivity
+
 python -m SimpleHTTPServer
